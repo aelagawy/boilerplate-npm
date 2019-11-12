@@ -3,7 +3,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ahmad",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.10.2"
 	},
 	"license": "MIT",
 	"keywords": [ "descriptive", "related", "freecodecamp" ],
